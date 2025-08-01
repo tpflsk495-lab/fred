@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+/* mont */
+@font-face {
+  font-family: 'Mont';
+  src: url('../font/Mont-Heavy.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
